@@ -6,6 +6,14 @@ The **Course Management Portal** is a web application designed to facilitate com
 
 This application follows the **Model-View-Controller (MVC)** architecture pattern. The backend is built with **Node.js** and **TypeScript**, while the frontend uses **React**, **Redux**, and **TailwindCSS** for styling. The database used is **PostgreSQL**, and the app is designed to be **SaaS-based** for scalability.
 
+<img width="1913" height="914" alt="image" src="https://github.com/user-attachments/assets/e82e2c6b-4a71-429c-9563-424917c7b02d" />
+<img width="1914" height="915" alt="image" src="https://github.com/user-attachments/assets/f3798370-0d0c-4f92-884f-0657cfda2230" />
+<img width="1915" height="915" alt="image" src="https://github.com/user-attachments/assets/c8b1c9d8-abe5-42c4-9ada-d2e584c9d1c0" />
+<img width="1919" height="914" alt="image" src="https://github.com/user-attachments/assets/da8eb140-d921-4125-82ca-0bbd83bbea98" />
+<img width="1917" height="913" alt="image" src="https://github.com/user-attachments/assets/776e482c-c585-4e0b-a833-06af645f2b56" />
+<img width="1914" height="917" alt="image" src="https://github.com/user-attachments/assets/4b72b530-ea2b-4b3f-a7b9-fade70247f4c" />
+
+
 ## Features
 
 ### Core Features (MVP):
