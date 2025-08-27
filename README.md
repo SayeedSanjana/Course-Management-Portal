@@ -2,7 +2,7 @@
 
 ## Overview
 
-The **Course Management Portal** is a web application designed to facilitate communication, information sharing, and academic management within a university setting. This MVP version focuses on key features such as user authentication, faculty directory, advising information, grade management, and a simple homepage for student users.
+The **Course Management Portal** is a web application designed to facilitate communication, information sharing, and academic management within a university setting. This MVP version focuses on key features such as user authentication, faculty directory, advising information, course related information, grade management, and a simple homepage for student users.
 
 This application follows the **Model-View-Controller (MVC)** architecture pattern. The backend is built with **Node.js** and **TypeScript**, while the frontend uses **React**, **Redux**, and **TailwindCSS** for styling. The database used is **PostgreSQL**, and the app is designed to be **SaaS-based** for scalability.
 
